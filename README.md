@@ -1,0 +1,2 @@
+# VMFAIUtility
+MailFlow AI Utility
